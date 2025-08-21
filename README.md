@@ -5,12 +5,6 @@
   <a href="https://www.linkedin.com/in/victor-mwenda-5b2b1219a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/devic_co">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vic-mwenda&style=flat-square&color=blue" alt=""/>
@@ -25,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Leetcode and read books.
 
 - :handshake: I am looking to collaborate on Open Source Projects. 
 
